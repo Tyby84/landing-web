@@ -2,8 +2,6 @@
 @media screen and (max-width: 1700px) {
     .arrow {
         position: absolute;
-        
-        bottom: 25%;
         width: 10%;
         transform: rotate(-25deg);
     }
@@ -22,30 +20,15 @@
     .arrow {
         position: absolute;
         right: 27%;
-        bottom: 20%;
+        top: 470px;
         width: 10%;
         transform: rotate(-15deg);
     }
     .arrow-right {
-        bottom: 20%;
+       top: 470px;
     }
 }
-@media screen and (max-width:1280px) and (max-height:800px) {
-    .arrow-right {
-        bottom: 33%;
-    }
-    .arrow {
-        bottom: 33%;
-    }
-}
-@media screen and (max-width:1280px) and (max-height:611px) {
-    .arrow-right {
-        bottom: 13%;
-    }
-    .arrow {
-        bottom: 13%;
-    }
-}
+
 
 @media screen and (max-width: 1200px) { 
     .maintext {

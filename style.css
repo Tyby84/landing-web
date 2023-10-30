@@ -60,14 +60,14 @@ h3 {
 .arrow {
     opacity: 0.5;
     position: absolute;
-    bottom: 25%;
+    top: 630px;
     width: 10%;
     transform: rotate(-15deg);
 }
 .arrow-right {
     opacity: 0.5;
     position: absolute;
-    bottom: 25%;
+    top: 630px;
     left: 27%;
     width: 10%;
     transform: rotate(15deg);
